@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Offered to the students who passed the Annual Expert Assessment in the program   ·   Oct 2018"
+  organization_url = ""
+  title = "The Outstanding Student Scholarship of Top-Notch Inovative Program "
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-10-01"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Offered to the top 10% of 100 student"
+  organization_url = ""
+  title = "The Third-Class Scholarship from CPU                                                  "
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "Offered to the students who had excellent academic performance in summer programs"
+  organization_url = ""
+  title = "The Third-Class Scholarship of Exploring World Plan "
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-01"
+  date_end = ""
   description = ""
 
+  [[item]]
+  organization = "Offered to the students who served the community and did a good job   ·  Jun 2018"
+  organization_url = ""
+  title = "The Honorary Title of Excellent Volunteers of CPU "
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "Offered to the young musicians in the campus symphony orchestra "
+  organization_url = ""
+  title = "The Honorary Title of Piano Accompaniment of the Campus Orchestra "
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = ""
+  description = ""
 +++
