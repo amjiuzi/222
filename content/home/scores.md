@@ -34,7 +34,7 @@ subtitle = ""
   
   [[feature]]
   icon = "google-plus-square"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "GRE sub"
   description = """
   
