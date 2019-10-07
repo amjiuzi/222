@@ -21,9 +21,11 @@ subtitle = ""
   
   piano(semi-professional); 
   
-  guitar, Ukulele and Irish whistle(self-learned) 
+  violin,clarinet(senior);
   
-  cello(from electives)
+  cello(intermediate)
+  
+  guitar, Ukulele and Irish whistle（primary） 
   
   """
   
@@ -53,7 +55,9 @@ subtitle = ""
   
   polyhedral cubes(10+ types) 
   
-  irregular cubes(20+ types)
+  irregular cubes(50+ types)
+  
+  own an cube exibition museumn
   
   """  
 
@@ -63,9 +67,17 @@ subtitle = ""
   name = "Black Tech"
   description = """
   
-  designed and programmed a drone at 16 
+  AOPA senior aerial vehicle license
   
-  aerial photography & stunt competition
+  AOPA junior Captain license
+  
+  AOPA intermediate drone programming engineer
+  
+  designed and programmed a drone at 8 
+  
+  professional aerial photographer & stunt competitor
+  
+
   
   """
   
@@ -73,7 +85,7 @@ subtitle = ""
   icon = "figshare"
   icon_pack = "ai"
   name = "Memory"
-  description = "capable of remembering 200 decimals of PI"
+  description = "capable of remembering 5000 decimals of PI"
   
   [[feature]]
   icon = "dryad"
