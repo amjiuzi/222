@@ -37,11 +37,15 @@ subtitle = ""
   
   Chinese(native)
   
-  English(fluent) 
+  English(Eur C1) 
   
-  Italian(from operas) 
+  German(TestDaF 12, M)
   
-  Japanese(from electives)
+  French(TEF 679, M)
+  
+  Italian(opera, SN) 
+  
+  Japanese(N1)
   
   """
   
