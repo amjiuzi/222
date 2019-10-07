@@ -51,8 +51,8 @@ subtitle = ""
   description = "91%"
   
   [[feature]]
-  icon = "dice-d20s"
-  icon_pack = "fas"
+  icon = "schlix"
+  icon_pack = "fab"
   name = "IELTs"
   description = "7.5=L9.0+R9.0+W6.0+W6.0"
 +++
