@@ -1,9 +1,9 @@
 ---
-title: "National Hospice Service Program"
+title: "The Campus Symphony Orchestra"
 authors:
-- Doctor assistant
-- Fujian Provincial Hospital
-- Jul.2016-present
+- Pianist
+- China Pharmaceutical University
+- Oct.2016-present
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,10 +20,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+abstract: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
 
 # Summary. An optional shortened abstract.
-summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
+summary: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
 
 tags:
 - Source Themes
@@ -36,7 +36,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 
+url_project: http://www.cpu.edu.cn
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -62,4 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+### I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
