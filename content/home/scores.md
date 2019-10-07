@@ -31,5 +31,28 @@ subtitle = ""
   icon_pack = "fab"
   name = "GRE"
   description = "V166+Q167+AW3.5"
+  
+  [[feature]]
+  icon = "google-plus-square"
+  icon_pack = "fas"
+  name = "GRE sub"
+  description = """
+  
+  Bio 920(93%)
+  
+  Chem 900(87%)
+  
+  """
 
+[[feature]]
+  icon = "publons"
+  icon_pack = "ai"
+  name = "PCAT"
+  description = "91%"
+  
+  [[feature]]
+  icon = "dice-d20s"
+  icon_pack = "fas"
+  name = "IELTs"
+  description = "7.5=L9.0+R9.0+W6.0+W6.0"
 +++
