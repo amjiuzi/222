@@ -67,8 +67,8 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer students for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU. I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. 
+I am a senior student at China Pharmaceutical University, pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel theranostic systems that can improve the therapeutic efficiency and treatment experience.
 
-My research focuses on drug delivery and currently I lead a project on constructing a smart nanoplatform using one drug as the carrier to deliver another drug.
+Previously, my lifelong fascination with LEGO design and chemo-immune therapy led me to become an innovator in research on designing co-delivery platform for MDR reversal and augmented apoptosis.
 
-Drug delivery is a highly multidisciplinary area. To me, it is just like playing LEGO-by organizing elements of different shapes and functions, we build brilliant gadgets. I enjoyed the process of implementing my ideas by hand and with nano “LEGO”, there is unlimited space for novel medicine revolutions-that is where the action is.
+I am actively contributing to carrier optimization, and methods that I implemented are controlling geometric and mechanical properties for better nanoscale precision. In my spare time, I enjoy joining seminars on the practical applications of LEGO-based engineering and programming.
