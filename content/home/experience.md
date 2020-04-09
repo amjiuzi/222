@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
-  company = "Project leader"
+  company = "Research fellow"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2019-09-01"
