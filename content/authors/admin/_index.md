@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at [China Pharmaceutical University](http://www.cpu.edu.cn), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel theranostic systems that can improve the therapeutic efficiency and treatment experience.
+I am a senior student at [China Pharmaceutical University] (http://www.cpu.edu.cn), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel theranostic systems that can improve the therapeutic efficiency and treatment experience.
 
 Previously, my lifelong fascination with LEGO design and chemo-immune therapy led me to become an innovator in research on designing co-delivery platform for MDR reversal and augmented apoptosis.
 
