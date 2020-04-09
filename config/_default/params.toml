@@ -111,8 +111,8 @@ directions = "Pharmaceutical Laboratory Building, Room430"
 contact_links = [
   {icon = "envelope", icon_pack = "far", name = "Email Me", link = "yili.cpu@gmail.com"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:.cid.b1a8b130abf9a9"},
-  {icon = "wechat", icon_pack = "fab", name = "We chat", link = "15050590898"},
-  {icon = "github", icon_pack = "fab", name = "github", link = "https://github.com/YiLi-2020"},
+  #{icon = "wechat", icon_pack = "fab", name = "We chat", link = "15050590898"},
+  #{icon = "github", icon_pack = "fab", name = "github", link = "https://github.com/YiLi-2020"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
