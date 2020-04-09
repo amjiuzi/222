@@ -14,8 +14,8 @@ role: A Growing Scientist & LEGO Enthusiast
 
 # Organizations/Affiliations
 #organizations:
-#- name: China Pharmaceutical University
- # url: "http://www.cpu.edu.cn"
+- name: CPU Pharmacy College
+  url: "yxy.cpu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
