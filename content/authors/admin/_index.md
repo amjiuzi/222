@@ -67,8 +67,8 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at China Pharmaceutical University, pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel theranostic systems that can improve the therapeutic efficiency and treatment experience.
+I am a senior student at [China Pharmaceutical University](http://www.cpu.edu.cn), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel theranostic systems that can improve the therapeutic efficiency and treatment experience.
 
 Previously, my lifelong fascination with LEGO design and chemo-immune therapy led me to become an innovator in research on designing co-delivery platform for MDR reversal and augmented apoptosis.
 
-I am actively contributing to carrier optimization, and methods that I implemented are controlling geometric and mechanical properties for better nanoscale precision. In my spare time, I enjoy joining seminars on the practical applications of LEGO-based engineering and programming.
+I am actively contributing to carrier optimization, and methods that I implemented are controlling geometric and mechanical properties for better nanoscale precision. In my spare time, I enjoy participat in seminars on the practical applications of LEGO-based engineering and programming.
