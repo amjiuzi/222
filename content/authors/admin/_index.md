@@ -29,7 +29,7 @@ education:
   courses:
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University, Nanking
-    year:2020
+    year:2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
