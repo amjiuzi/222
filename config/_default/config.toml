@@ -1,168 +1,76 @@
-publishDir = "../www220/YiLi" # relative to project root
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# Title of your site
+title = "YiLi"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://yi-li.netlify.com"
-title = "Yi Li "
-copyright = "&copy; ©2020 Yi Li<br/>Hosted on [GitHub](https://github.com)· Served by [Netlify](https://ucrtheory.netlify.com)"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright = "©2020 Yi Li<br/>Hosted on [GitHub](https://github.com)· Served by [Netlify](https://ucrtheory.netlify.com)"
+
+############################
+## Advanced options below ##
+############################
+
+# Name of Academic theme folder in `themes/`.
 theme = "academic"
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
-paginate = 10
-disqusShortname = ""
-googleAnalytics = ""
+
+# Get last modified date for content from Git?
+enableGitInfo = false
+
+# Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
-enableGitInfo = false
+removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+paginate = 10  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
 
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab.
-  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
-  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
   extensions = ["backslashLineBreak"]
 
-[params]
-  color_theme = "yitheme"
-  font = "yifont"
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
-  # Your details.
-  name = "YiLi"
-  role = "A Growing Scientist & LEGO Enthusiast"
-  organizations = [ { name = "China Pharmaceitical University", url = "http://www.cpu.edu.cn" } ]
-
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile/Flip600_sq.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  # email = "flip@example.org"
-  email1 = "flip.tanedo" # using cryptedmail
-  email2 = "ucr" # using cryptedmail
-  email3 = "edu" # using cryptedmail
-  address = "3054 Physics Building, University of California, Riverside, CA 92521, USA"
-  office_hours = "Email for appointment"
-  phone = "x26168"
-  # skype = "echo123"
-  # telegram = ""
-  keybase = ""
-
-  # Diplay a logo in navigation bar rather than title (optional).
-  logo = "" #   an image in `static/img/`
-
-  map = 0  #   0: No map, 1: Google Maps
-  map_api_key = ""
-  latitude = "33.9745"
-  longitude = "-117.3254"
-  zoom = 17
-
-  date_format = "Jan 2, 2006"
-  time_format = "3:04 PM"
-  reading_time = true
-  comment_count = true
-  section_pager = false
-  math = true # global LaTeX rendering
-  highlight = false # Highlight.js options
-  highlight_languages = []
-  sharing = false
-  privacy_pack = false
-
-
-
-  # FOOTER PARAMETERS
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+  
+    # FOOTER PARAMETERS
   footmark = "feynmanfooter.png"
   stacklogo = "lego.png"
   legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
 
   # HEADER PARAMETERS
   watermark = "Bundle3.jpg"
-
-
-  # Social/Academic Networking
-  #
-  # Icon pack "fab" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fas" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fontawesome.com/icons
-  #
-  # Icon pack "ai" includes the following academic icons:
-  #
-  #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
-
-  # [[params.social]]
-  #   icon = "envelope"
-  #   icon_pack = "fas"
-  #   link = "mailto:flip.tanedo@ucr.edu"
-
-  [[params.social]]
-    icon = "inspire"
-    icon_pack = "ai"
-    link = "http://inspirehep.net/author/profile/P.Tanedo.1"
-    cv = true
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?hl=en&user=BQuJtTIAAAAJ&view_op=list_works&sortby=pubdate"
-    cv = true
-
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "http://orcid.org/0000-0003-4642-2199"
-    cv = true
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/fliptanedo"
-    cv = true
-
-  [[params.social]]
-    icon = "arxiv"
-    icon_pack = "ai"
-    link = "https://arxiv.org/find/hep-ph/1/au:+Tanedo_P/0/1/0/all/0/1"
-    cv = true
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/FlipTanedo"
-    cv = false
-
-  [[params.social]]
-    icon = "publons"
-    icon_pack = "ai"
-    link = "https://publons.com/author/637273/philip-tanedo#profile"
-    cv = true
-
-  [[params.social]]
-    icon = "slideshare"
-    icon_pack = "fab"
-    link = "https://www.slideshare.net/fliptanedo"
-    cv = false
-
-  [[params.social]]
-    icon = "tree"
-    icon_pack = "fas"
-    link = "https://academictree.org/physics/tree.php?pid=715850"
-    cv = false
-
-  [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
-    link = "files/Tanedo.pdf"
-    cv = false
-
-
-
-
-[languages.en]
-  languageCode = "en-us"
