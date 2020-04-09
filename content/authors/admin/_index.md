@@ -30,6 +30,14 @@ education:
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2020
+    
+# FOOTER PARAMETERS
+  footmark = "feynmanfooter.png"
+  stacklogo = "lego.png"
+  legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
+
+# HEADER PARAMETERS
+  watermark = "Bundle3.jpg"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
