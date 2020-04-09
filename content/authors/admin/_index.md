@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: B.S. in Pharmaceutical Science
-    institution: China Pharmaceutical University, Nanking
+    institution: China Pharmaceutical University
     year:2016-2020
 
 # Social/Academic Networking
