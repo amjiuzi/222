@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrduate of Pharmaceutical Science 
+role: A Growing Scientist & LEGO Enthusiast 
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Drug-delivery-drug nanoplatform
+- Theranostic nanoplatform
 - Non-lysosomal pathway
-- Drug resistance
-- Gene delivery
+- Multi-drug resistance
 
 education:
   courses:
-  - course: BS in Pharmaceutical Science
+  - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2016-2020
   - course: Summer Research Program
