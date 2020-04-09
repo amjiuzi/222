@@ -5,7 +5,7 @@ name = "yitheme"
 light = true
 
 # Primary
-primary = "#A3C0C1"
+primary = "#7E7E7E"
 
 # Menu
 menu_primary = "#fff"
