@@ -30,12 +30,6 @@ education:
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2016-2020
-  - course: Summer Research Program
-    institution: Peking University
-    year: 2019
-  - course: Summer Visiting Program
-    institution: University of StrathClyde
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
