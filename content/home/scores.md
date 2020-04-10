@@ -24,7 +24,7 @@ subtitle = ""
   icon = "globe-americas"
   icon_pack = "fas"
   name = "TOFEL iBT"
-  description = "116=R30+L30+S26+W30"  
+  description = "110=R30+L30+S23+W27"  
   
 [[feature]]
   icon = "gofore"
