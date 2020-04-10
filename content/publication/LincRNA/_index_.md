@@ -37,9 +37,9 @@ featured: true
 #url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
 url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007'
-url_dataset: 'https://aiche.onlinelibrary.wiley.com/journal/23806761'
-url_poster: 'https://aiche.onlinelibrary.wiley.com/cms/asset/16889a68-8fd7-434f-88ab-aab8bb9db190/btm210130-fig-0007-m.jpg'
-url_project: 'http://www.nsfc.gov.cn/english/site_1/index.html'
+url_dataset: 'https://www.sciencedirect.com/journal/experimental-cell-research'
+url_poster: 'https://ars.els-cdn.com/content/image/1-s2.0-S0014482720302007-fx1_lrg.jpg'
+url_project: 'http://www.nsfc.gov.cn'
 url_slides: ''
 url_source: ''
 url_video: ''
