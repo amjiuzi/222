@@ -31,25 +31,14 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Using Dual Nanomedicines to Treat Metastatic Cancer"
-  company = "Co-investigator"
+  title = "State Key Laboratory of Natural and Biomimic Drugs"
+  company = "Research Assistant · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
   company_url = ""
-  location = "China Pharmaceutical University"
-  date_start = "2019-01-01"
-  date_end = "2019-05-31"
-  description = """
-  Inspired by a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we use marimastat‐loaded thermosensitive liposomes to protect the integrity of microenvironment, and then inject PTX Ns to induce apoptosis.
-  
-·Participated in literature reviewing and made hypotheses.
-
-·Prepared and characterized nanoparticles.
-
-·Studied on pharmacodynamics, and build pharmacokinetics models.
-
-·Drew diagram of mechanism and wrote part of the article.
-
-·Experienced an entire research process. 
-  
+  location = "Peking University"
+  date_start = "2019-07-01"
+  date_end = "2019-08-31"
+  description = """  
+·Obtained Dean recommoendation.
  """
 
 [[experience]]
