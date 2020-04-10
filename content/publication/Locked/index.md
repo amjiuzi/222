@@ -33,8 +33,8 @@ tags:
 featured: true
 
 # links:
-#name: "Cite"
-#url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
+name: "Cite"
+url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
 url_pdf: https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/btm2.10130
 url_code: ''
 url_dataset: 'https://aiche.onlinelibrary.wiley.com/journal/23806761'
