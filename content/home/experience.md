@@ -5,9 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = """Research
-Experiences"""
-subtitle = ""
+title = """Experiences"""
+subtitle = "Highlights from my most recent research history."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
