@@ -21,22 +21,13 @@ date_format = "Jan 2006"
   title = "[Key Laboratory of Druggability of Biopharmaceutics](http://dbio.cpu.edu.cn)"
   company = "Research fellow · Advisor: [Dr.Lifang Yin](http://yjsy.cpu.edu.cn/_t283/06/37/c6402a67127/page.htm) & [Dr.Wei He](http://yjsy.cpu.edu.cn/_t283/06/4e/c6402a67150/page.htm)"
   company_url = ""
-  location = "[China Pharmaceutical University](http://www.cpu.edu.cn)"
+  location = "China Pharmaceutical University"
   date_start = "2017-05-01"
   date_end = ""
   description = """
-  Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?
-
-·Designed experiments and optimized conditions with the help of Design Expert.
-
-·Studied binding mechanism based on component analysis and characterization.
-
-·Cultured PTX-resistant cells and studied cytotoxicity, uptake and distribution, etc.
-
-·Confirmed the non-lysosomal pathway. 
-
-·Undertook a research project independently. 
-
+·Was selected from 3000+ freshmen to joined [Top-Notch Program](http://yxbjjh.cpu.edu.cn).
+·Earned all credits in the first two years and participated in full-time research after that.
+·Won postgraduate recommendation.
 """
 
 [[experience]]
