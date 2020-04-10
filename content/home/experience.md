@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = """Experiences"""
-subtitle = "Highlights from my most recent research history."
+subtitle = "Professional Affiliations & Workgroups ."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
