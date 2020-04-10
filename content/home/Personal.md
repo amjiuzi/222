@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "China Pharmaceutical University "
+  organization_url = ""
+  title = "Volunteer network engineer and graphic designer ~~free work force~~ of our lab"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "2017-05-01"
   date_end = ""
-  description = ""
+  description = "For personal portfolio, please turn to slides above!"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "China Pharmaceutical University"
+  organization_url = ""
+  title = "Pianist of campus symphony orchestra"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2019-06-30"
+  description = "Also good at cello, ukulele, guitar, accordion, Irish whistle and Scotland Bagpipe.  "
   
 [[item]]
   organization = "DataCamp"
