@@ -6,11 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "In Progress & Colaborations"
+subtitle = "Independent works & Cross-disciplinary colaborations"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "post"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -21,17 +21,21 @@ subtitle = "In Progress & Colaborations"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "All"
+    tag = "0"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+    name = "Drug delivery"
+     tag = "1"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Gene engineering"
+     tag = "2"
+     
+   [[content.filter_button]]
+     name = "Tumor pharmacology"
+     tag = "3"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -60,9 +64,9 @@ subtitle = "In Progress & Colaborations"
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  Background image.
+  image = "Bundle3.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
