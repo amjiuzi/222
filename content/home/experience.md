@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "State Key Laboratory of Natural and Biomimic Drugs"
+  title = "[State Key Laboratory of Natural and Biomimic Drugs](http://sklnbd.bjmu.edu.cn)"
   company = "Research Assistant · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
   company_url = ""
   location = "Peking University"
