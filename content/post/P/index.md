@@ -25,7 +25,7 @@ abstract: We worked in an intelligent pharmacy workshop to manage and dispense c
 # Summary. An optional shortened abstract.
 summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines.
 
-tags:
+tags:！
 - Source Themes
 featured: false
 
