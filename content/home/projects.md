@@ -10,7 +10,7 @@ subtitle = "Independent works & Cross-disciplinary colaborations"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "post"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,19 +23,8 @@ subtitle = "Independent works & Cross-disciplinary colaborations"
   
    [[content.filter_button]]
      name = "All"
-    tag = "0"
-  
-   [[content.filter_button]]
-    name = "Drug delivery"
-     tag = "1"
-  
-   [[content.filter_button]]
-     name = "Gene engineering"
-     tag = "2"
-     
-   [[content.filter_button]]
-     name = "Tumor pharmacology"
-     tag = "3"
+    tag = "*"
+ 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
