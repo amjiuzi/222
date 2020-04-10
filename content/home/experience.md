@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = ""
   description = """
+  
 - Was selected from 3000+ freshmen to joined [Top-Notch Program](http://yxbjjh.cpu.edu.cn).
 - Earned all credits in two years and engaged in full-time research after that.
-- Won postgraduate recommendation.
-"""
+- Won postgraduate recommendation."""
 
 [[experience]]
   title = "[State Key Laboratory of Natural and Biomimic Drugs](http://sklnbd.bjmu.edu.cn)"
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
   description = """  
-- Obtained Dean recommoendation.
- """
+  
+- Obtained Dean recommoendation."""
 
 [[experience]]
   title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   date_start = "2020-01-10"
   date_end = "2020-04-10"
   description = """
-- Also engaged in COVID-19 related first-line clinical research.
-"""
+  
+- Also engaged in COVID-19 related first-line clinical research."""
   
 [[experience]]
   title = " [Institute of Pharmacy and Biomedical Sciences (SIPBS), Physiology and Pharmacology department](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) "
@@ -60,8 +60,8 @@ date_format = "Jan 2006"
   date_start = "2018-07-12"
   date_end = "2018-08-15"
   description = """
-- Funded by Overseas Outstanding Student Scholarship.
-  """
+  
+- Funded by Overseas Outstanding Student Scholarship."""
   
   
 +++
