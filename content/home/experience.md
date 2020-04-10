@@ -26,7 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 ·Was selected from 3000+ freshmen to joined [Top-Notch Program](http://yxbjjh.cpu.edu.cn).
+
 ·Earned all credits in the first two years and participated in full-time research after that.
+
 ·Won postgraduate recommendation.
 """
 
