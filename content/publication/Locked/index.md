@@ -38,10 +38,10 @@ featured: true
 url_pdf: https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/btm2.10130
 url_code: ''
 url_dataset: ''
-url_poster: ''
-url_project: ''
+url_poster: 'https://aiche.onlinelibrary.wiley.com/cms/asset/16889a68-8fd7-434f-88ab-aab8bb9db190/btm210130-fig-0007-m.jpg'
+url_Cite: 'https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130'
 url_slides: ''
-url_source: ''
+url_source: 'http://www.nsfc.gov.cn/english/site_1/index.html'
 url_video: ''
 
 # Featured image
