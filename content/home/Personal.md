@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-05-01"
   date_end = ""
-  description = "For personal portfolio, please turn to slides above!"
+  description = "Computer Geek & CPU Picasso<br/>For personal portfolio, please turn to slides above!"
 
 [[item]]
   organization = "China Pharmaceutical University"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "China Pharmaceutical University"
   organization_url = ""
-  title = "Interpreter and teaching assistant of college internationl affair office "
+  title = "Interpreter and teaching assistant of college internationl affair office"
   url = ""
   certificate_url = ""
   date_start = "2017-09-01"
