@@ -42,23 +42,14 @@ date_format = "Jan 2006"
  """
 
 [[experience]]
-  title = "Determining a Drug-Delivering-Drug Platform-Mediated Protein Therapeutics via a Non-lysosomal Route"
-  company = "Co-Investigator"
+  title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
+  company = "Research Fellow · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
   company_url = ""
-  location = "China Pharmaceutical University"
-  date_start = "2018-06-01"
-  date_end = "2018-08-31"
+  location = "Fujian Medical University"
+  date_start = "2020-01-10"
+  date_end = "2020-04-10"
   description = """
-  Using different carrier to deliver PTX we got very different cell uptake and distribution, so what led to the differences? How to improve delivery efficacy?
-  
-·Designed and prepared nanoparticle using model protein and drug.
-
-·Set experiments to control different morphology parameter of nanoparticles.
-
-·Studied the mechanism of endocytosis and intracellular distribution.
-
-·Acquired the ability to operate most lab equipments and workshops.
-
+·Also engaged in COVID-19 related first-line clinical research.
 """
   
 [[experience]]
