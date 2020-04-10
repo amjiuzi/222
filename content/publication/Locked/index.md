@@ -3,7 +3,7 @@ title: "“Locked” cancer cells are more sensitive to chemotherapy"
 authors:
 - Yaqi Lyv
 - Qingqing Xiao
-- admin
+- **Yi Li** 
 - Yubing Wu
 - Wei He*
 - Lifang Yin*
