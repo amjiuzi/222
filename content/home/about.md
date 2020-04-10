@@ -1,5 +1,5 @@
 +++
-# About widget.
+# About widget.1
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
