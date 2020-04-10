@@ -18,7 +18,7 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "GPA"
-  description = "3.5 of 4.0"
+  description = "3.6 of 4.0"
   
 [[feature]]
   icon = "globe-americas"
@@ -30,29 +30,6 @@ subtitle = ""
   icon = "gofore"
   icon_pack = "fab"
   name = "GRE"
-  description = "V166+Q167+AW3.5"
-  
-  [[feature]]
-  icon = "google-plus-square"
-  icon_pack = "fab"
-  name = "GRE sub"
-  description = """
-  
-  Bio 920(93%)
-  
-  Chem 900(87%)
-  
-  """
+  description = "V157+Q165+AW3.5"
 
-[[feature]]
-  icon = "publons"
-  icon_pack = "ai"
-  name = "PCAT"
-  description = "91%"
-  
-  [[feature]]
-  icon = "schlix"
-  icon_pack = "fab"
-  name = "IELTs"
-  description = "7.5=L9.0+R9.0+W6.0+W6.0"
 +++
