@@ -53,8 +53,8 @@ date_format = "Jan 2006"
 - Also engaged in COVID-19 related first-line clinical research."""
   
 [[experience]]
-  title = " [Institute of Pharmacy and Biomedical Sciences (SIPBS), Physiology and Pharmacology department](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) "
-  company = "Visiting Student · Mentor: [Dr.Annette Sorensen](https://www.strath.ac.uk/staff/sorensenannettedr/) & [Dr.Edward Rowan](https://www.strath.ac.uk/staff/rowanedwarddr/)"
+  title = " [Institute of Pharmacy and Biomedical Sciences (SIPBS), Physiology and Pharmacology Department](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) "
+  company = "Visiting Student · Mentor: [Dr.Annette Sorensen](https://www.strath.ac.uk/staff/sorensenannettedr/)"
   company_url = ""
   location = "University of StrathClyde"
   date_start = "2018-07-12"
