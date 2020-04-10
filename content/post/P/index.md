@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugs.
+abstract: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugss.
 
 # Summary. An optional shortened abstract.
 summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines.
