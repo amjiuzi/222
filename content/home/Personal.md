@@ -47,6 +47,17 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2018-06-30"
   description = "For daily communication, can read and speak some Japanese, Italian, German and French as well."
+  
+  [[item]]
+  organization = "Li KaShing Fundation National Hospice Service Organize"
+  organization_url = ""
+  title = "Pysician assistant & Pharmacy assistant"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-07-01"
+  date_end = "2017-08-31"
+  description = "Also ~~passively~~ accepted some surgical knowledge from my surgeon parents."
+
 
 +++
 
