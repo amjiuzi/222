@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-09-01"
   date_end = "2018-06-30"
-  description = "For daily communication, can read and speak some Japanese, Italian, German and French as well."
+  description = "For daily communication, can speak some Japanese, German and French as well."
   
   [[item]]
   organization = "Li KaShing Fundation National Hospice Service Organize"
