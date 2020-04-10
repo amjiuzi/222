@@ -30,7 +30,7 @@ summary: Conventional chemotherapy can kill the cancer cells and, whereas, would
 
 tags:
 - Source Themes
-featured: fales
+featured: true
 
 # links:
 #name: "Cite"
