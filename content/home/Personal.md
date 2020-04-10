@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "China Pharmaceutical University"
   organization_url = ""
-  title = "Voluntary ~~free~~ network engineer and graphic designer of our lab"
+  title = "Voluntary ~~free labor~~ network engineer and graphic designer of our lab"
   url = ""
   certificate_url = ""
   date_start = "2017-05-01"
