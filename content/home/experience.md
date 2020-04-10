@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = "China Pharmaceutical University"
   date_start = "2017-05-01"
   date_end = ""
-  description = """
-  
-  
+  description = """<br/>
 - Was selected from 3000+ freshmen to joined [Top-Notch Program](http://yxbjjh.cpu.edu.cn).
 - Earned all credits in two years and engaged in full-time research after that.
 - Won postgraduate recommendation."""
@@ -38,9 +36,7 @@ date_format = "Jan 2006"
   location = "Peking University"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
-  description = """  
-  
-  
+  description = """ <br/>
 - Obtained Dean recommoendation."""
 
 [[experience]]
@@ -50,9 +46,7 @@ date_format = "Jan 2006"
   location = "Fujian Medical University"
   date_start = "2020-01-10"
   date_end = "2020-04-10"
-  description = """
-  
-  
+  description = """<br/>
 - Also engaged in COVID-19 related first-line clinical research."""
   
 [[experience]]
@@ -62,9 +56,7 @@ date_format = "Jan 2006"
   location = "University of StrathClyde"
   date_start = "2018-07-12"
   date_end = "2018-08-15"
-  description = """
-  
-  
+  description = """<br/>
 - Funded by Overseas Outstanding Student Scholarship."""
   
   
