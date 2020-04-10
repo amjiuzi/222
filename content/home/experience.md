@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
+  
 - Was selected from 3000+ freshmen to joined [Top-Notch Program](http://yxbjjh.cpu.edu.cn).
 - Earned all credits in two years and engaged in full-time research after that.
 - Won postgraduate recommendation."""
@@ -39,6 +40,7 @@ date_format = "Jan 2006"
   date_end = "2019-08-31"
   description = """  
   
+  
 - Obtained Dean recommoendation."""
 
 [[experience]]
@@ -50,6 +52,7 @@ date_format = "Jan 2006"
   date_end = "2020-04-10"
   description = """
   
+  
 - Also engaged in COVID-19 related first-line clinical research."""
   
 [[experience]]
@@ -60,6 +63,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-12"
   date_end = "2018-08-15"
   description = """
+  
   
 - Funded by Overseas Outstanding Student Scholarship."""
   
