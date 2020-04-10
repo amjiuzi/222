@@ -1,12 +1,12 @@
 ---
-title: "“Locked” cancer cells are more sensitive to chemotherapy"
+title: "The Role of the Novel LincRNA uc002jit.1 in NF-kB-Mediated DNA Damage Repair in Acute Myeloid Leukemia Cells"
 authors:
-- Yaqi Lyv
-- Qingqing Xiao
+- Ding Li
+- Zelei Yu
 - <u>**Yi Li**</u> 
-- Yubing Wu
-- Wei He*
-- Lifang Yin*
+- Tingting Wang
+- Xianliang Chen
+- Xianli Wu*
 date: "2019-05-15T00:00:00Z"
 doi: "10.1002/btm2.10130"
 
