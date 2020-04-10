@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "[_Experimental Cell Research_](https://www.sciencedirect.com/journal/experimental-cell-research) · [**Elsevier**](https://www.sciencedirect.com/journal/experimental-cell-research)"
 publication_short: ""
 
-abstract: The treatment of metastatic cancer is a great challenging issue throughout the world. Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines, marimastat‐loaded thermosensitive liposomes (MATT‐LTSLs) and paclitaxel nanocrystals (PTX‐Ns), via intravenous and intratumoral injection. First, the metastasis was blocked and cancer cells were locked in the tumor microenvironment (TME) by delivering the matrix metalloproteinase (MMP) inhibitor, MATT, to the tumor with LTSLs, downregulating the MMPs by threefold and reducing the degradation of the extracellular matrix. And then, the “locked” cancer cells were efficiently killed via intratumoral injection of the other cytotoxic nanomedicine, PTX‐Ns, along with no metastasis and 100% inhibition of tumor growth. This work highlights the importance of the TME's integrity in the chemotherapy duration. We believe this is a generalized strategy for cancer treatment and has potential guidance for the clinical administration.
+abstract: The roles and therapeutic potential of long noncoding RNAs (lncRNAs) in acute myeloid leukemia (AML) have attracted increased attention. However, many lncRNAs have not been annotated in AML, and their predictive value for AML therapy remains unclear. In this study, we identified a novel large intergenic noncoding RNA uc002jit.1 (D43770) from a lncRNA microarray. uc002jit.1 is 1800 nt long with a stable secondary structure. We first proved uc002jit.1 is a target gene of nuclear factor kappa B/RELA, RELA regulated uc002jit.1 transcription by binding to its promoter. Additionally, uc002jit.1 knockdown impaired the stability of poly (ADP-ribose) polymerase 1 (PARP1) mRNA, and then reduced PARP1 protein content and PARylation level upon DNA damage, thus inhibiting DNA damage repair in AML cells. Moreover, uc002jit.1 knockdown significantly inhibited AML cells proliferation and increased the sensitivity to chemotherapeutic drugs in vitro as well as in a mouse model in vivo. Overall, our study indicated that uc002jit.1 may be associated with the occurrence and prognosis of AML and could be a new diagnostic/prognostic biomarker and therapeutic target for AML.
 
 # Summary. An optional shortened abstract.
 summary: Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines, marimastat‐loaded thermosensitive liposomes (MATT‐LTSLs) and paclitaxel nanocrystals (PTX‐Ns), via intravenous and intratumoral injection. 
@@ -35,8 +35,8 @@ featured: true
 # links:
 #name: "Cite"
 #url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
-url_pdf: https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/btm2.10130
-url_code: 'https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
+url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007'
 url_dataset: 'https://aiche.onlinelibrary.wiley.com/journal/23806761'
 url_poster: 'https://aiche.onlinelibrary.wiley.com/cms/asset/16889a68-8fd7-434f-88ab-aab8bb9db190/btm210130-fig-0007-m.jpg'
 url_project: 'http://www.nsfc.gov.cn/english/site_1/index.html'
