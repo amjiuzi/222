@@ -2,15 +2,16 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 66  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "Independent works & Cross-disciplinary colaborations"
+title = """Social
+Services"""
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "post"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -21,10 +22,17 @@ subtitle = "Independent works & Cross-disciplinary colaborations"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-    tag = "*"
- 
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
+  
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -34,8 +42,9 @@ subtitle = "Independent works & Cross-disciplinary colaborations"
   #   1 = List
   #   2 = Compact
   #   3 = Card
+  #   4 = Citation
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -53,9 +62,9 @@ subtitle = "Independent works & Cross-disciplinary colaborations"
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
-  Background image.
-  image = "Bundle3.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -67,4 +76,3 @@ subtitle = "Independent works & Cross-disciplinary colaborations"
  # CSS class.
  css_class = ""
 +++
-
