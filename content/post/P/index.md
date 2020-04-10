@@ -26,7 +26,7 @@ abstract: We worked in an intelligent pharmacy workshop to manage and dispense c
 summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines.
 
 tags:！
-- Source Themes
+#- Source Themes
 featured: false
 
 # links:
