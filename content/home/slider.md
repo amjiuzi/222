@@ -35,8 +35,8 @@ height = "300px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "LEGO Cells"
-  content = ""
+  title = "Cells Gallery"
+  content = "drawn by Ai, LEGO studio and 3DsMax"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
