@@ -51,4 +51,13 @@ height = "300px"
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  
+  [[item]]
+  title = "Assignments"
+  content = "Classwork, presentation and TEM micrograph"
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 +++
