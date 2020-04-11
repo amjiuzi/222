@@ -6,7 +6,7 @@ active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Independent works & Cross-disciplinary collaborations"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,16 +26,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Drug Delivery"
+    tag = "Drug Delivery"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Tumor Pharmacology"
+    tag = "Tumor Pharmacology"
+    
+   [[content.filter_button]]
+    name = "Gene Engineering"
+    tag = "Gene Engineering"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -45,7 +49,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
