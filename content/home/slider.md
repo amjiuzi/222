@@ -23,7 +23,7 @@ height = "300px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Rings.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -40,7 +40,7 @@ height = "300px"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "Cells.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Cells.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,6 +49,6 @@ height = "300px"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Lab.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++
