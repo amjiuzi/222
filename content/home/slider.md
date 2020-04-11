@@ -23,8 +23,8 @@ height = "300px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Bundle3.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "Rings.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -40,8 +40,8 @@ height = "300px"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "Header/Cells.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "Cells.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "LEGO Labs"
@@ -49,6 +49,6 @@ height = "300px"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Header/Lab.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "Lab.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 +++
