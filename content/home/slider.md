@@ -16,14 +16,14 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Tumor Treatment Strategies"
-  content = "Inspired by The Lord of the Rings"
+  title = "Journal Gallery"
+  content = "Parallel LEGO universe"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Journals.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -50,6 +50,15 @@ height = "300px"
 
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  
+  [[item]]
+  title = "Tumor Treatment Strategies"
+  content = "Inspired by The Lord of the Rings"
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
   
   [[item]]
