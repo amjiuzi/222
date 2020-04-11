@@ -1,9 +1,9 @@
 ---
-title: "Outpatient Pharmacy Volunteer Program"
+title: "Teaching Assistant of the Science College"
 authors:
-- Pharmacist assistant
-- Nanjing First Hospital
-- Nov.2016-Oct.2017
+- Teaching assistant
+- China Pharmaceutical University
+- Nov.2016-Jun.2019
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,13 +20,15 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugss.
+abstract: I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+
 
 # Summary. An optional shortened abstract.
-summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines.
+summary: I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
 
-#tags:*
-#- Source Themes
+
+tags:
+- Source Themes
 featured: false
 
 # links:
@@ -36,7 +38,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: http://en.dih-tech.com/?lang=en
+url_project: http://lxy.cpu.edu.cn
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -62,4 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugs.
+### I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+
