@@ -1,9 +1,8 @@
 ---
-title: "National Hospice Service Program"
+title: "Design BCL-mediated Delivery of p53"
 authors:
-- Doctor assistant
-- Fujian Provincial Hospital
-- Jul.2016-present
+- China Pharmaceutical University
+- Oct.2017-Apr.2018
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,12 +19,13 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
 
 # Summary. An optional shortened abstract.
-summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
+summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
 
 tags:
+- Drug Delivery
 - TCM Related
 featured: false
 
@@ -62,5 +62,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
-In my sophomore year, I started to focus on diseases besides cancer, like pulmonary hypertension (PAH). We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. As the team leader, I contributed to addressing several critical issues, including applying for funding from companies, contacting faculty members for guidance, and designing technical routes. Besides, to make progress efficiently, I utilized what I learned in my last project on caveolae-mediated endocytosis and applied my knowledge in traditional Chinese medicine. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.
+### Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.<br/>
+In my sophomore year, I started to focus on diseases besides cancer, like **pulmonary hypertension (PAH)**. We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. <br/>
+As the team leader, I contributed to addressing several critical issues, including **applying for funding from companies**, **contacting faculty members for guidance**, and **designing technical routes**. Besides, to make progress efficiently, I utilized what I learned in my last project on **caveolae-mediated endocytosis** and applied my knowledge in **traditional Chinese medicine**. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. 
