@@ -1,10 +1,10 @@
 ---
-title: "Constructing Functional miRNA Liposomes to treat TNBC by Gene Silencing"
+title: "Constructing PTX-DCA Nanococrystals to treat NSCLC"
 authors:
-- Peking University
-- Jul.2019-Aug.2019
+- China Pharmaceutical University
+- Jul.2019-Jun.2020
 date: "2019-08-15T00:00:00Z"
-doi: "https://doi.org/10.2147/IJN.S207837"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,23 +16,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Nanomedicine"
-publication_short: "INT.J.NANOMED"
+publication: ""
+publication_short: ""
 
-abstract: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
+abstract: My graduating design. Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 # Summary. An optional shortened abstract.
-summary: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
+summary: My graduating design. Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 tags:
-- Gene Engineering
 - Drug Delivery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dovepress.com/nanosized-functional-mirna-liposomes-and-application-in-the-treatment--peer-reviewed-fulltext-article-IJN
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,9 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
--Inoculated a dozen 96-well plates before getting this perfect graph. 
--Developed **gene editing** perk trees as well. 
--Unlocked CRISPR/Cas9 skills accidently in a training session.
-As my project on the drug-delivery-drug platform deepens, I reflected on the limitations of this device because it largely depended on the shape of drugs, which placed restrictions on its indications. I asked myself that if we could use drugs with specific shapes as carriers, maybe we could use biomacromolecules, like genes, as building blocks to design carriers with improved nanoscale precision of controlling their properties, and therefore led to more diverse functions. 
-Accordingly, I applied to the summer research program at Peking University, where the most vigorous and advanced structural biology research in China was carrying forward. As a research assistant, I participated in the project on constructing miRNA liposomes using CRISPR/Cas9 to silence the slug gene, in order to inhibit the TGF-β1/Smad pathway, thereby inhibiting the invasiveness and growth of TNBC cells. 
-The six-week training helped me fill the gap in molecular biology and gene engineering, which was an essential complement to my biomaterial background, and made me realized that the most significant discoveries are made in a collaborative environment.
+Through clinical investigation, I found that when people are diagnosed with non-small cell lung cancer (NSCLC), they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to drug resistance. Therefore, I am trying to find a solution to PTX resistance in the lungs and identify methods to increase apoptosis through the induction of non-lysosomal endocytic pathways. 
+So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal A549 cells, and plan to conduct in vivo studies in a rat subcutaneous tumor model.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
+All these experiences solidified my lab skills as a well-prepared independent researcher and facilitated my personal development as a growing young scientist.
+
