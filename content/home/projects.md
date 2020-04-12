@@ -38,8 +38,8 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
     tag = "Gene Engineering"
     
    [[content.filter_button]]
-    name = "TCM Related"
-    tag = "TCM Related" 
+    name = "TCM Exploitation"
+    tag = "TCM Exploitation" 
     
 
 [design]
