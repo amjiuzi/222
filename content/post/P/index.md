@@ -1,9 +1,9 @@
 ---
-title: "Outpatient Pharmacy Volunteer Program"
+title: "PTX-DCA Nanococrystals for MDR Reversal and Enhanced Apoptosis"
 authors:
 - Pharmacist assistant
 - Nanjing First Hospital
-- Nov.2016-Oct.2017
+- Nov.2018-Jun.2019
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,13 +20,13 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugss.
+abstract:Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis. My independent project & graduating design.
 
 # Summary. An optional shortened abstract.
-summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines.
+summary: Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis. My independent project & graduating design.
 
-#tags:*
-#- Source Themes
+tags:
+- Drug Delivery
 featured: false
 
 # links:
@@ -62,4 +62,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugs.
+Through clinical investigation, I found that when people are diagnosed with non-small cell lung cancer (NSCLC), they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to drug resistance. Therefore, I am trying to find a solution to PTX resistance in the lungs and identify methods to increase apoptosis through the induction of non-lysosomal endocytic pathways. 
+So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal A549 cells, and plan to conduct in vivo studies in a rat subcutaneous tumor model.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. All these experiences solidified my lab skills as a well-prepared independent researcher and facilitated my personal development as a growing young scientist.
+
