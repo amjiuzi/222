@@ -19,20 +19,19 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
+abstract: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 # Summary. An optional shortened abstract.
-summary: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
+summary: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 tags:
-- Gene Engineering
 - Drug Delivery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dovepress.com/nanosized-functional-mirna-liposomes-and-application-in-the-treatment--peer-reviewed-fulltext-article-IJN
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
