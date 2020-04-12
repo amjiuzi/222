@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+abstract: Joined a pharmacology lab in my hometown for this unbelivable vacation. Finally found inner peace with imperfect WB result.
 
 # Summary. An optional shortened abstract.
-summary: Joined a pharmacology lab in my hometown, just in case the comming semester will not come that soon. Finally found inner peace with imperfect WB result.
+summary: Joined a pharmacology lab in my hometown for this unbelivable vacation. Finally found inner peace with imperfect WB result.
 
 tags:
 - Tumor Pharmacology
