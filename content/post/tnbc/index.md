@@ -1,5 +1,5 @@
 ---
-title: "Treat TNBC by Gene Silencing"
+title: "Treat TNBC by gene silencing"
 authors:
 - Peking University
 - Jul.2019-Aug.2019
