@@ -25,13 +25,14 @@ abstract: Inoculated a dozen 96-well plates before getting this perfect graph. D
 summary: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
 
 tags:
+- Gene Engineering
 - Drug Delivery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
+url_pdf:https://doi.org/10.2147/IJN.S207837
 url_code: ''
 url_dataset: ''
 url_poster: ''
