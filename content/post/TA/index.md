@@ -26,7 +26,6 @@ summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary 
 
 tags:
 - Drug Delivery
-- TCM Related
 featured: false
 
 # links:
