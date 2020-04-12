@@ -38,8 +38,8 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
     tag = "Gene Engineering"
     
    [[content.filter_button]]
-    name = "Chinese Medicine"
-    tag = "Chinese Medicine" 
+    name = "TCM"
+    tag = "TCM" 
     
 
 [design]
