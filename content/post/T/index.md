@@ -1,5 +1,5 @@
 ---
-title: "Study on mechnism of non-lysosomal endocytosis"
+title: "Study on non-lysosomal endocytosis"
 authors:
 - China Pharmaceutical University
 - Mar.2018-Jun.2018
