@@ -22,7 +22,7 @@ publication_short: ""
 abstract: My graduating design. Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 # Summary. An optional shortened abstract.
-summary: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
+summary: My graduating design. Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 tags:
 - Drug Delivery
