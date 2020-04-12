@@ -19,19 +19,20 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
+abstract: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
 
 # Summary. An optional shortened abstract.
-summary: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
+summary: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
 
 tags:
+- Gene Engineering
 - Drug Delivery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://www.dovepress.com/nanosized-functional-mirna-liposomes-and-application-in-the-treatment--peer-reviewed-fulltext-article-IJN
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,4 +68,3 @@ slides: example
 As my project on the drug-delivery-drug platform deepens, I reflected on the limitations of this device because it largely depended on the shape of drugs, which placed restrictions on its indications. I asked myself that if we could use drugs with specific shapes as carriers, maybe we could use biomacromolecules, like genes, as building blocks to design carriers with improved nanoscale precision of controlling their properties, and therefore led to more diverse functions. 
 Accordingly, I applied to the summer research program at Peking University, where the most vigorous and advanced structural biology research in China was carrying forward. As a research assistant, I participated in the project on constructing miRNA liposomes using CRISPR/Cas9 to silence the slug gene, in order to inhibit the TGF-β1/Smad pathway, thereby inhibiting the invasiveness and growth of TNBC cells. 
 The six-week training helped me fill the gap in molecular biology and gene engineering, which was an essential complement to my biomaterial background, and made me realized that the most significant discoveries are made in a collaborative environment.
-
