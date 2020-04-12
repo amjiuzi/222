@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   location = "University of StrathClyde"
   date_start = "2018-07-12"
   date_end = "2018-08-15"
-  description = """- Funded by [Overseas Outstanding Student Scholarship (http://gjc.cpu.edu.cn/b8/29/c1065a112681/page.htm)."""
+  description = """- Funded by [Overseas Outstanding Student Scholarship](http://gjc.cpu.edu.cn/b8/29/c1065a112681/page.htm)."""
   
   
   
