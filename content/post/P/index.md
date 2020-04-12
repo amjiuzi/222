@@ -2,7 +2,7 @@
 title: "Construct PTX-DCA Ns to treat NSCLC"
 authors:
 - China Pharmaceutical University
-- Jul.2019-Jun.2020
+- Jul.2019-
 date: "2019-08-15T00:00:00Z"
 doi: ""
 
