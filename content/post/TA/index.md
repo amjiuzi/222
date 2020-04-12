@@ -26,7 +26,7 @@ abstract: We helped patients who suffered from advanced cancer by palliative car
 summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
 
 tags:
-- Source Themes
+- TCM Related
 featured: false
 
 # links:
@@ -63,3 +63,4 @@ projects: []
 slides: example
 ---
 ### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+In my sophomore year, I started to focus on diseases besides cancer, like pulmonary hypertension (PAH). We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. As the team leader, I contributed to addressing several critical issues, including applying for funding from companies, contacting faculty members for guidance, and designing technical routes. Besides, to make progress efficiently, I utilized what I learned in my last project on caveolae-mediated endocytosis and applied my knowledge in traditional Chinese medicine. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.
