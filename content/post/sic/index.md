@@ -22,7 +22,7 @@ publication_short: ""
 abstract: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
 
 # Summary. An optional shortened abstract.
-summary: Joined a research group near my home just in case the comming semester will not come that soon. Finally found inner peace with imperfect WB result.
+summary: Joined a pharmacology lab in my hometown, just in case the comming semester will not come that soon. Finally found inner peace with imperfect WB result.
 
 tags:
 - Tumor Pharmacology
@@ -61,6 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Joined a research group near my home just in case the comming semester will not come that soon. Finally found inner peace with imperfect WB result.
+### Joined a research group in my hometown, just in case the comming semester will not come that soon. & Finally found inner peace with imperfect WB result.
 
 In progress. Will update when I go back to school.
