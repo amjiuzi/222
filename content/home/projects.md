@@ -37,13 +37,10 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
     name = "Gene Engineering"
     tag = "Gene Engineering"
     
-   [[content.filter_button]]
-    name = "Traditional Chinese Medicine"
-    tag = "Traditional Chinese Medicine"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
