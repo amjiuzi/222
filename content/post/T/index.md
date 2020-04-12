@@ -23,11 +23,11 @@ abstract: Potent Protein Therapeutics via a Non-lysosomal Route.
 
 
 # Summary. An optional shortened abstract.
-summary: I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+summary: Got started with some instrument workstations.<br/>Found my programming skills surprising useful in variable control & outcome prediction.
 
 
 tags:
-- Source Themes
+- Drug Delivery
 featured: false
 
 # links:
