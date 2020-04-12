@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: My graduating design.<br/>Drug-delivery-drug platform for efficient MDR reversal and enhanced apoptosis.
+abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 # Summary. An optional shortened abstract.
 summary: My graduating design. <br/>Drug-delivery-drug platform for efficient MDR reversal and enhanced apoptosis.
