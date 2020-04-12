@@ -22,9 +22,9 @@ publication_short: "INT.J.NANOMED"
 abstract: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
 
 # Summary. An optional shortened abstract.
-summary: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+summary: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
 
-tags:
+tags:Gene Engineering
 - Source Themes
 featured: false
 
