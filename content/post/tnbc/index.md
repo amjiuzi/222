@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://doi.org/10.2147/IJN.S207837
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
