@@ -1,10 +1,10 @@
 ---
-title: "Constructing Functional miRNA Liposomes to treat TNBC by Gene Silencing"
+title: "Construct PTX-DCA Ns to treat NSCLC"
 authors:
-- Peking University
-- Jul.2019-Aug.2019
+- China Pharmaceutical University
+- Jul.2019-Jun.2020
 date: "2019-08-15T00:00:00Z"
-doi: "https://doi.org/10.2147/IJN.S207837"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Nanomedicine"
-publication_short: "INT.J.NANOMED"
+publication: ""
+publication_short: ""
 
 abstract: Inoculated a dozen 96-well plates before getting this perfect graph. Developed **gene editing** perk trees as well. Unlocked CRISPR/Cas9 skills accidently in a training session.
 
