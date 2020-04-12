@@ -1,5 +1,5 @@
 ---
-title: "Constructing PTX-DCA Nanococrystals to treat NSCLC"
+title: "Construct PTX-DCA Ns to treat NSCLC"
 authors:
 - China Pharmaceutical University
 - Jul.2019-Jun.2020
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: My graduating design. Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
+abstract: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 # Summary. An optional shortened abstract.
-summary: My graduating design. Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
+summary: **My graduating design.** Study on a Smart Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis.
 
 tags:
 - Drug Delivery
@@ -61,7 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Through clinical investigation, I found that when people are diagnosed with non-small cell lung cancer (NSCLC), they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to drug resistance. Therefore, I am trying to find a solution to PTX resistance in the lungs and identify methods to increase apoptosis through the induction of non-lysosomal endocytic pathways. 
-So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal A549 cells, and plan to conduct in vivo studies in a rat subcutaneous tumor model.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
-All these experiences solidified my lab skills as a well-prepared independent researcher and facilitated my personal development as a growing young scientist.
+Through clinical investigation, I found that when people are diagnosed with **non-small cell lung cancer (NSCLC)**, they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to **drug resistance**. Therefore, I am trying to find a solution to **PTX resistance** in the lungs and identify methods to increase apoptosis through the induction of **non-lysosomal endocytic pathways**. 
+So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal **A549 cells**, and plan to conduct in vivo studies in **a rat subcutaneous tumor model**. 
+From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. All these experiences solidified my lab skills as a well-prepared independent researcher and facilitated my personal development as a growing young scientist.
 
