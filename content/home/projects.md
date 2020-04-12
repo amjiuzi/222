@@ -36,11 +36,7 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
    [[content.filter_button]]
     name = "Gene Engineering"
     tag = "Gene Engineering"
-    
-   [[content.filter_button]]
-    name = "TCM Exploitation"
-    tag = "TCM Exploitation" 
-    
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
