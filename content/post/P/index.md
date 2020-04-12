@@ -61,6 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+**Independent research experiences solidified my lab skills as a well-prepared independent researcher and facilitated my personal development as a growing young scientist.**
 Through clinical investigation, I found that when people are diagnosed with **non-small cell lung cancer (NSCLC)**, they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to **drug resistance**. Therefore, I am trying to find a solution to **PTX resistance** in the lungs and identify methods to increase apoptosis through the induction of **non-lysosomal endocytic pathways**. 
 So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal **A549 cells**, and plan to conduct in vivo studies in a **rat subcutaneous tumor model**.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
-All these experiences solidified my lab skills as a well-prepared independent researcher and facilitated my personal development as a growing young scientist.
+
