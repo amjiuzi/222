@@ -1,11 +1,10 @@
 ---
-title: "The Campus Symphony Orchestra"
+title: "Study on repair effect of LincRNA on AML"
 authors:
-- Pianist
-- China Pharmaceutical University
-- Oct.2016-present
+- Fujian Medical University
+- Jan.2020-present
 date: "2019-05-15T00:00:00Z"
-doi: ""
+doi: "https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,10 +22,10 @@ publication_short: ""
 abstract: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
 
 # Summary. An optional shortened abstract.
-summary: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+summary: Joined a research group near my home just in case the comming semester will not come that soon. Finally found inner peace with imperfect WB result.
 
 tags:
-- Source Themes
+- Tumor Pharmacology
 featured: false
 
 # links:
@@ -36,7 +35,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: http://www.cpu.edu.cn
+url_project: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -62,4 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+### Joined a research group near my home just in case the comming semester will not come that soon. Finally found inner peace with imperfect WB result.
+
+In progress. Will update when I go back to school.
