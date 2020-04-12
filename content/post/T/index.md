@@ -63,5 +63,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+### For this project, I helped to reveal the influence of nanoparticle properties on their endocytosis.<br/>
+Specifically, we confirmed **rod-shaped** active pure drug nanoparticles enable **caveolae-mediated endocytosis**, which potentialy benefited the present miRNA delivery system, including prolonged blood circulation, protection of miRNA against decomposition by enzymatic and acidic conditions, and combination use of drugs and miRNA.<br/>
+This experience was incredibly rewarding, as it provided me methodology and theoretical basis to address problems on my next project(see **Baicalein-mediated Delivery of p53 in Therapeutics of Pulmonary Hypertension**) and helped me gain the confidence to work independently. Also, I noticed that while numerous promising biomacromolecule drugs were discovered and utilized, their applications were severely limited by their unfavorable pharmacodynamic properties and toxicities, leading to the necessity of suitable delivery systems.
 
