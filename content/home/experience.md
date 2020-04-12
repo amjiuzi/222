@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   title = "[State Key Laboratory of Natural and Biomimic Drugs](http://sklnbd.bjmu.edu.cn)"
   company = "Research Assistant · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
   company_url = ""
-  location = "Peking University"
+  location = "[Peking University](https://www.pku.edu.cn)"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
-  description = """- Obtained Dean recommoendation."""
+  description = """- Obtained [dean's](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) recommoendation."""
 
 [[experience]]
   title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
