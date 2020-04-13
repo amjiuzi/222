@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "[Key Laboratory of Druggability of Biopharmaceutics](http://dbio.cpu.edu.cn)"
-  company = "Research fellow · Advisor: [Dr.Lifang Yin](http://yjsy.cpu.edu.cn/_t283/06/37/c6402a67127/page.htm) & [Dr.Wei He](http://yjsy.cpu.edu.cn/_t283/06/4e/c6402a67150/page.htm)"
+  company = "Research associate · Advisor: [Dr.Lifang Yin](http://yjsy.cpu.edu.cn/_t283/06/37/c6402a67127/page.htm) & [Dr.Wei He](http://yjsy.cpu.edu.cn/_t283/06/4e/c6402a67150/page.htm)"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2017-05-01"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "[State Key Laboratory of Natural and Biomimic Drugs](http://sklnbd.bjmu.edu.cn)"
-  company = "Research Assistant · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
+  company = "Research associate · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
   company_url = ""
   location = "Peking University"
   date_start = "2019-07-01"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
-  company = "Research Fellow · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
+  company = "Research associate · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
   company_url = ""
   location = "Fujian Medical University"
   date_start = "2020-01-10"
