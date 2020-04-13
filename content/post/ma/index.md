@@ -63,5 +63,3 @@ projects: []
 slides: example
 ---
 ### We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.This experience made me familiar with clinical needs and herbology.
-
-As an undergraduate research fellow, I participated in several research projects on nanoscaled delivery systems for the dual targeting of the **tumor microenvironment (TME)** and **cancer cells**. I spend my freshmen year cooperating with graduate mentors to construct a self-assembled thermosensitive liposome to function as a dual-targeting platform, intending to inhibiting metastasis and angiogenesis. The project contained the **synthesis of liposomes**, the **analyses of biosamples**, and **pharmacological reasoning**, through which I gained hands-on experience in **designing carriers**, **setting experiment controls**, and **studying targeting mechanism**.
