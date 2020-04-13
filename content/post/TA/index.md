@@ -1,5 +1,5 @@
 ---
-title: "Design BCL-mediated Delivery of p53"
+title: "Design BCL-mediated delivery of p53"
 authors:
 - China Pharmaceutical University
 - Oct.2017-Apr.2018
