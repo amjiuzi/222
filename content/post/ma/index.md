@@ -1,5 +1,5 @@
 ---
-title: "Pharmacy Department Internship Program"
+title: "Assemble Nanoplatforms for Dual-targeting of TME and Cancer Cells."
 authors:
 - Pharmacist assistant
 - Fujian Provincial Hospital
@@ -20,10 +20,11 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.This experience made me familiar with clinical needs and herbology.
+abstract: Assembling Nanoplatforms from a CD44-targeted Drug and Liposomes for Dual-targeting of TME and Cancer Cells.
 
 # Summary. An optional shortened abstract.
-summary:  We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.
+summary:  My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
+
 
 tags:
 - Source Themes
@@ -36,7 +37,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: www.fjsl.com.cn
+url_project: http://yxy.cpu.edu.cn/enyxy/b9/c3/c9392a113091/page.htm
 url_slides: ''
 url_source: ''
 url_video: ''
