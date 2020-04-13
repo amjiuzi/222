@@ -1,10 +1,10 @@
 ---
-title: "Construct PTX-DCA Ns to treat NSCLC"
+title: "Assemble Nanoplatforms for Dual-targeting"
 authors:
 - China Pharmaceutical University
-- Jul.2019-present
+- May.2017-Jan.2018
 date: "2019-08-15T00:00:00Z"
-doi: ""
+doi: "https://pubs.acs.org/doi/abs/10.1021/acsnano.7b08051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
+abstract: My graduating design.Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 # Summary. An optional shortened abstract.
-summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
+summary: My first project.<br/>Spend an memorable summer with 200 mice, administering drugs and measuring tumor size everyday.
 
 tags:
 - Drug Delivery
@@ -31,11 +31,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
+url_pdf:https://pubs.acs.org/doi/abs/10.1021/acsnano.7b08051
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 
+url_project:https://pubs.acs.org/doi/abs/10.1021/acsnano.7b08051 
 url_slides: ''
 url_source: ''
 url_video: ''
