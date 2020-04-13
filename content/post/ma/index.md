@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
+abstract: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
 
 # Summary. An optional shortened abstract.
-summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
+summary: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
 
 tags:
 - Drug Delivery
