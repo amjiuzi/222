@@ -61,6 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.<br/>
-In my sophomore year, I started to focus on diseases besides cancer, like **pulmonary hypertension (PAH)**. We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. <br/>
-As the team leader, I contributed to addressing several critical issues, including **applying for funding from companies**, **contacting faculty members for guidance**, and **designing technical routes**. Besides, to make progress efficiently, I utilized what I learned in my last project on **caveolae-mediated endocytosis** and applied my knowledge in **traditional Chinese medicine**. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. 
+### So my career began. <br/><br/>
+As an undergraduate research assistant, I participated in several research projects on nanoscaled delivery systems for the dual targeting of the **tumor microenvironment (TME)** and **cancer cells**. I spend my freshmen year cooperating with graduate mentors to construct a self-assembled thermosensitive liposome to function as a dual-targeting platform, intending to inhibiting metastasis and angiogenesis.<br/><br/>
+The project contained the **synthesis of liposomes**, the **analyses of biosamples**, and **pharmacological reasoning**, through which I gained hands-on experience in **designing carriers**, **setting experiment controls**, and **studying targeting mechanism**.
