@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-08-31"
-  description = "Also ~~passively~~ accepted some surgical knowledge from my surgeon parents."
+  description = "Also learned some surgical strategy of treatment from my surgeon parents."
 
 
 +++
