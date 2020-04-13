@@ -1,9 +1,9 @@
 ---
-title: "Construct PTX-DCA Ns to treat NSCLC"
+title: "Design BCL-mediated Delivery of p53"
 authors:
 - China Pharmaceutical University
-- Jul.2019-present
-date: "2019-08-15T00:00:00Z"
+- Oct.2017-Apr.2018
+date: "2019-05-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
+abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
 
 # Summary. An optional shortened abstract.
-summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
+summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
 
 tags:
 - Drug Delivery
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,7 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Independent research experiences solidified my lab skills as a well-prepared independent researcher, and facilitated my personal development as a growing young scientist.**<br/><br/>
-Through clinical investigation, I found that when people are diagnosed with **non-small cell lung cancer (NSCLC)**, they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to **drug resistance**. Therefore, I am trying to find a solution to **PTX resistance** in the lungs and identify methods to increase apoptosis through the induction of **non-lysosomal endocytic pathways**.<br/><br/>
-So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal **A549 cells**, and plan to conduct in vivo studies in a **rat subcutaneous tumor model**.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
-
+### Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.<br/>
+In my sophomore year, I started to focus on diseases besides cancer, like **pulmonary hypertension (PAH)**. We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. <br/>
+As the team leader, I contributed to addressing several critical issues, including **applying for funding from companies**, **contacting faculty members for guidance**, and **designing technical routes**. Besides, to make progress efficiently, I utilized what I learned in my last project on **caveolae-mediated endocytosis** and applied my knowledge in **traditional Chinese medicine**. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. 
