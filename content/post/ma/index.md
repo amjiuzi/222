@@ -1,5 +1,5 @@
 ---
-title: "Assemble Nanoplatforms for Dual-targeting"
+title: "Assemble Nanoplatforms for Dual-targeting of of TME and cancer cells"
 authors:
 - China Pharmaceutical University
 - May.2017-Jan.2018
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
+abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
 
 # Summary. An optional shortened abstract.
-summary: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
+summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
 
 tags:
 - Drug Delivery
@@ -31,11 +31,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://pubs.acs.org/doi/pdf/10.1021/acsnano.7b08051 
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project:http://yxy.cpu.edu.cn/enyxy/b9/c3/c9392a113091/page.htm 
+url_project: 
 url_slides: ''
 url_source: ''
 url_video: ''
