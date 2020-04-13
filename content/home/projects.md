@@ -22,19 +22,19 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "**All**"
+    name = "All"
     tag = "*"
   
   [[content.filter_button]]
-    name = "**Drug Delivery**"
+    name = "Drug Delivery"
     tag = "Drug Delivery"
   
   [[content.filter_button]]
-    name = "**Tumor Pharmacology**"
+    name = "Tumor Pharmacology"
     tag = "Tumor Pharmacology"
     
    [[content.filter_button]]
-    name = "**Gene Engineering**"
+    name = "Gene Engineering"
     tag = "Gene Engineering"
 
 
