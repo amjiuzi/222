@@ -1,10 +1,10 @@
 ---
-title: "Assemble Nanoplatforms for Dual-targeting of TME and Cancer Cells."
+title: "Construct PTX-DCA Ns to treat NSCLC"
 authors:
 - China Pharmaceutical University
-- May.2017-Jan.2018
-date: "2019-05-15T00:00:00Z"
-doi: "https://pubs.acs.org/doi/abs/10.1021/acsnano.7b08051"
+- Jul.2019-present
+date: "2019-08-15T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,11 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
+abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 # Summary. An optional shortened abstract.
-summary:  My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
-
+summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 tags:
 - Drug Delivery
@@ -32,11 +31,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://pubs.acs.org/doi/pdf/10.1021/acsnano.7b08051 
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: http://yxy.cpu.edu.cn/enyxy/b9/c3/c9392a113091/page.htm
+url_project: 
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -62,4 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.This experience made me familiar with clinical needs and herbology.
+**Independent research experiences solidified my lab skills as a well-prepared independent researcher, and facilitated my personal development as a growing young scientist.**<br/><br/>
+Through clinical investigation, I found that when people are diagnosed with **non-small cell lung cancer (NSCLC)**, they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to **drug resistance**. Therefore, I am trying to find a solution to **PTX resistance** in the lungs and identify methods to increase apoptosis through the induction of **non-lysosomal endocytic pathways**.<br/><br/>
+So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal **A549 cells**, and plan to conduct in vivo studies in a **rat subcutaneous tumor model**.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
+
