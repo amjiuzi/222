@@ -1,10 +1,10 @@
 ---
-title: "Design BCL-mediated Delivery of p53"
+title: "Assemble Nanoplatforms for Dual-targeting"
 authors:
 - China Pharmaceutical University
-- Oct.2017-Apr.2018
+- May.2017-Jan.2018
 date: "2019-05-15T00:00:00Z"
-doi: ""
+doi: "https://pubs.acs.org/doi/abs/10.1021/acsnano.7b08051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
+abstract: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
 
 # Summary. An optional shortened abstract.
-summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
+summary: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
 
 tags:
 - Drug Delivery
@@ -31,11 +31,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf:https://pubs.acs.org/doi/pdf/10.1021/acsnano.7b08051 
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 
+url_project:http://yxy.cpu.edu.cn/enyxy/b9/c3/c9392a113091/page.htm 
 url_slides: ''
 url_source: ''
 url_video: ''
