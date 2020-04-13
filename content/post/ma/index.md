@@ -1,11 +1,10 @@
 ---
 title: "Assemble Nanoplatforms for Dual-targeting of TME and Cancer Cells."
 authors:
-- Pharmacist assistant
-- Fujian Provincial Hospital
-- Nov.2017-Feb.2018
+- China Pharmaceutical University
+- May.2017-Jan.2018
 date: "2019-05-15T00:00:00Z"
-doi: ""
+doi: "https://pubs.acs.org/doi/abs/10.1021/acsnano.7b08051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,20 +19,20 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Assembling Nanoplatforms from a CD44-targeted Drug and Liposomes for Dual-targeting of TME and Cancer Cells.
+abstract: My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
 
 # Summary. An optional shortened abstract.
 summary:  My first project. Spend an memorable summer vacation with 200 mice, administering drugs and measuring tumor size everyday.
 
 
 tags:
-- Source Themes
+- Drug Delivery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf:https://pubs.acs.org/doi/pdf/10.1021/acsnano.7b08051 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,3 +63,5 @@ projects: []
 slides: example
 ---
 ### We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.This experience made me familiar with clinical needs and herbology.
+
+As an undergraduate research fellow, I participated in several research projects on nanoscaled delivery systems for the dual targeting of the **tumor microenvironment (TME)** and **cancer cells**. I spend my freshmen year cooperating with graduate mentors to construct a self-assembled thermosensitive liposome to function as a dual-targeting platform, intending to inhibiting metastasis and angiogenesis. The project contained the **synthesis of liposomes**, the **analyses of biosamples**, and **pharmacological reasoning**, through which I gained hands-on experience in **designing carriers**, **setting experiment controls**, and **studying targeting mechanism**.
