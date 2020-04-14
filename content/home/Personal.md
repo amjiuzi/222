@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Personal"
-subtitle = "Community Service, Social fit and Leadership"
+subtitle = "Community Service, social fit and skills"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
