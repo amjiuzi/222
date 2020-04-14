@@ -1,5 +1,5 @@
 ---
-title: "Assemble Nanoplatforms for Dual-targeting of of TME and cancer cells"
+title: "Assemble nanoplatforms for dual-targeting of of TME and cancer cells"
 authors:
 - China Pharmaceutical University
 - May.2017-Jan.2018
