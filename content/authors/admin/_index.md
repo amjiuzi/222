@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at [China Pharmaceutical University] (http://www.cpu.edu.cn), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel [theranostic systems](#publications) that can improve the therapeutic efficiency and treatment experience.
+I am a senior student at [China Pharmaceutical University] (http://www.cpu.edu.cn), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel [theranostic systems](#publication) that can improve the therapeutic efficiency and treatment experience.
 
 I am actively contributing to [carrier optimization](#projects), and methods that I implemented are controlling geometric and mechanical properties at better nanoscale precision. In my spare time, I enjoy participate in seminars on the practical applications of [LEGO-based](#slider) engineering and programming.
