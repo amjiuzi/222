@@ -22,7 +22,6 @@ organizations:
 
 interests:
 - Theranostic nanoplatform
-- Non-lysosomal pathway
 - Multi-drug resistance
 
 education:
