@@ -21,14 +21,19 @@ organizations:
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
-- Theranostic nanoplatform
-- Multi-drug resistance
+- Theranostic platform
+- Drug delivery
+- NIR-II imaging
+- Wearable medical device
 
 education:
   courses:
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2020
+  - course: M.S. in NanoEngineering
+    institution: University of Clifornia
+    year: 2022
     
 
 # Social/Academic Networking
