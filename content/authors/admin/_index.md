@@ -24,7 +24,6 @@ interests:
 - Theranostic platform
 - Drug delivery
 - NIR-II imaging
-- Wearable medical device
 
 education:
   courses:
