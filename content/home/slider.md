@@ -34,6 +34,15 @@ height = "300px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
   
+  [[item]]
+  title = "Sketch maps"
+  content = ""
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "Abstracts.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
  [[item]]
   title = "Classwork & presentations"
   content = "Illustrations and TEM pseudocolor graph"
@@ -43,15 +52,6 @@ height = "300px"
   overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
- [[item]]
-  title = "Sketch maps"
-  content = ""
-  align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Abstracts.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-
 [[item]]
   title = "Cells Gallery"
   content = "drawn by Ai, LEGO studio and 3DsMax"
@@ -59,6 +59,15 @@ height = "300px"
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "Cells.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+   [[item]]
+  title = "Tumor Treatment Strategies"
+  content = "Inspired by The Lord of the Rings"
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -70,14 +79,7 @@ height = "300px"
   overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
-  [[item]]
-  title = "Tumor Treatment Strategies"
-  content = "Inspired by The Lord of the Rings"
-  align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+ 
   
  
 +++
