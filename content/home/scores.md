@@ -18,7 +18,8 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "GPA"
-  description = "3.72 of 4.00"
+  description = "3.72 of 4.00 (Ugrad)
+3.87 of 4.00 (Grad)"
   
 [[feature]]
   icon = "globe-americas"
