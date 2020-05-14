@@ -47,7 +47,7 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view =1
+  view =3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
