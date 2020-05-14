@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Scores"
 subtitle = ""
@@ -18,18 +18,18 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "GPA"
-  description = "3.6 of 4.0"
+  description = "3.72 of 4.00"
   
 [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
   name = "TOFEL iBT"
-  description = "110=R30+L30+S23+W27"  
+  description = "118=R30+L30+S28+W30"  
   
 [[feature]]
   icon = "gofore"
   icon_pack = "fab"
   name = "GRE"
-  description = "V157+Q165+AW3.5"
+  description = "337=V167+Q170 (AW3.5)"
 
 +++
