@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "[Key Laboratory of Druggability of Biopharmaceutics](http://dbio.cpu.edu.cn)"
+  title = "[Department of Pharmaceutics](http://dbio.cpu.edu.cn)"
   company = "Research associate · Advisor: [Dr.Lifang Yin](http://yjsy.cpu.edu.cn/_t283/06/37/c6402a67127/page.htm) & [Dr.Wei He](http://yjsy.cpu.edu.cn/_t283/06/4e/c6402a67150/page.htm)"
   company_url = ""
   location = "China Pharmaceutical University"
