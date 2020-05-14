@@ -24,7 +24,7 @@ height = "300px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
  # overlay_color = "#666"  # An HTML color value.
   overlay_img = "Journals.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -33,6 +33,15 @@ height = "300px"
   # cta_url = "https://sourcethemes.com/academic/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
+  
+   [[item]]
+  title = "Classwork & presentations"
+  content = "Sketch maps and TEM pseudocolor graph"
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Cells Gallery"
@@ -41,7 +50,7 @@ height = "300px"
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "Cells.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "LEGO Labs"
@@ -50,7 +59,7 @@ height = "300px"
 
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
   [[item]]
   title = "Tumor Treatment Strategies"
@@ -59,14 +68,7 @@ height = "300px"
 
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
-  [[item]]
-  title = "Assignments"
-  content = "Classwork, presentation and TEM micrograph"
-  align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+ 
 +++
