@@ -38,14 +38,14 @@ date_format = "Jan 2006"
   date_end = "2019-08-31"
   description = """- Obtained [dean's](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) recommoendation."""
 
-[[experience]]
-  title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
-  company = "Research associate · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
-  company_url = ""
-  location = "Fujian Medical University"
-  date_start = "2020-01-10"
-  date_end = "2020-04-10"
-  description = """- Also engaged in COVID-19 related first-line [clinical research](https://fjglp.fjmu.edu.cn)"""
+#[[experience]]
+ # title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
+  #company = "Research associate · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
+  #company_url = ""
+  #location = "Fujian Medical University"
+  #date_start = "2020-01-10"
+  #date_end = "2020-04-10"
+  #description = """- Also engaged in COVID-19 related first-line [clinical research](https://fjglp.fjmu.edu.cn)"""
   
 [[experience]]
   title = " [Institute of Pharmacy and Biomedical Sciences (SIPBS), Physiology and Pharmacology Department](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) "
