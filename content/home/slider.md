@@ -34,13 +34,22 @@ height = "300px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
   
-   [[item]]
+ [[item]]
   title = "Classwork & presentations"
-  content = "Sketch maps and TEM pseudocolor graph"
+  content = "Illustrations and TEM pseudocolor graph"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
+ [[item]]
+  title = "Sketch maps"
+  content = ""
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "Abstracts.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
