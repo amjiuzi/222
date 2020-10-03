@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "[Department of Pharmaceutics](http://dbio.cpu.edu.cn)"
+  title = "[Key Laboratory of Druggability of Biopharmaceutics](http://dbio.cpu.edu.cn)"
   company = "Research associate · Advisor: [Dr.Lifang Yin](http://yjsy.cpu.edu.cn/_t283/06/37/c6402a67127/page.htm) & [Dr.Wei He](http://yjsy.cpu.edu.cn/_t283/06/4e/c6402a67150/page.htm)"
   company_url = ""
   location = "China Pharmaceutical University"
@@ -31,21 +31,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "[State Key Laboratory of Natural and Biomimic Drugs](http://sklnbd.bjmu.edu.cn)"
-  company = "Research associate · Advisor: [Dr.Wan-liang Lu](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
+  company = "Research associate · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
   company_url = ""
   location = "Peking University"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
   description = """- Obtained [dean's](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) recommoendation."""
 
-#[[experience]]
- # title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
-  #company = "Research associate · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
-  #company_url = ""
-  #location = "Fujian Medical University"
-  #date_start = "2020-01-10"
-  #date_end = "2020-04-10"
-  #description = """- Also engaged in COVID-19 related first-line [clinical research](https://fjglp.fjmu.edu.cn)"""
+[[experience]]
+  title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
+  company = "Research associate · Advisor: [Dr.Li-xian Wu](https://www.fjmu.edu.cn/yxy/2016/1212/c2789a63637/page.htm)"
+  company_url = ""
+  location = "Fujian Medical University"
+  date_start = "2020-01-10"
+  date_end = "2020-04-10"
+  description = """- Also engaged in COVID-19 related first-line [clinical research](https://fjglp.fjmu.edu.cn)"""
   
 [[experience]]
   title = " [Institute of Pharmacy and Biomedical Sciences (SIPBS), Physiology and Pharmacology Department](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) "
