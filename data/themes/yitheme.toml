@@ -5,13 +5,13 @@ name = "yitheme"
 light = true
 
 # Primary
-primary = "#16245C"
+primary = "#E9CFAE"
 
 # Menu
-menu_primary = "#5570A7"
-menu_text = "#ffffff"
-menu_text_active = "#FCF3D2"
-menu_title = "#0D1740"
+menu_primary = "#81A0DF"
+menu_text = "#F8F2DC"
+menu_text_active = "#A39F93"
+menu_title = "#16245C"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
