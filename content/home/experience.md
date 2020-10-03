@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   location = "China Pharmaceutical University"
   date_start = "2017-05-01"
   date_end = ""
-  description = """
-- Was selected from 3000+ freshmen to joined [Top-Notch Program](http://yxbjjh.cpu.edu.cn).
-- Earned all credits in two years and engaged in full-time research after that.
-- Won postgraduate recommendation."""
+  description = ""
 
 [[experience]]
   title = "[State Key Laboratory of Natural and Biomimic Drugs](http://sklnbd.bjmu.edu.cn)"
