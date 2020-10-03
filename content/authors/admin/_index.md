@@ -23,7 +23,16 @@ organizations:
 interests:
 - Drug delivery
 - NIR-II imaging
+- Biomimic materials
+- Multidrug resistance
 - Meta-analysis
+
+courses for 20FA:
+- NANO 200
+- NANO 201
+- NANO 202
+- NANO 241
+- NANO 247A
 
 #education:
   #courses:
