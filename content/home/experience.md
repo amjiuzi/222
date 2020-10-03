@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Peking University"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
-  description = """- Obtained [dean's](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) recommoendation."""
+  description = ""
 
 [[experience]]
   title = "[Institute of Clinical Pharmacology, School of Pharmacy](https://www.fjmu.edu.cn/yxy/2786/list.htm)"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Fujian Medical University"
   date_start = "2020-01-10"
   date_end = "2020-04-10"
-  description = """- Also engaged in COVID-19 related first-line [clinical research](https://fjglp.fjmu.edu.cn)"""
+  description = ""
   
 [[experience]]
   title = " [Institute of Pharmacy and Biomedical Sciences (SIPBS), Physiology and Pharmacology Department](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) "
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "University of StrathClyde"
   date_start = "2018-07-12"
   date_end = "2018-08-15"
-  description = """- Funded by [Overseas Outstanding Student Scholarship](http://gjc.cpu.edu.cn/b8/29/c1065a112681/page.htm)."""
+  description = ""
   
   
   
