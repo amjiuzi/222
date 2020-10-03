@@ -27,21 +27,14 @@ interests:
 - Multidrug resistance
 - Meta-analysis
 
-courses for 20FA:
-- NANO 200
-- NANO 201
-- NANO 202
-- NANO 241
-- NANO 247A
-
-#education:
-  #courses:
-  #- course: B.S. in Pharmaceutical Science
-    #institution: China Pharmaceutical University
-    #year: 2020
- # - course: M.S. in NanoEngineering
-    #institution: UC San Deigo
-    #year: 2022
+education:
+  courses:
+  - course: B.S. in Pharmaceutical Science
+    institution: China Pharmaceutical University
+    year: 2020
+  - course: M.S. in NanoEngineering
+    institution: UC San Deigo
+    year: 2022
     
 
 # Social/Academic Networking
