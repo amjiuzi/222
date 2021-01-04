@@ -26,8 +26,8 @@ subtitle = ""
   description = """2020 Fall"""
   
   [[feature]]
-  icon = "psyarxiv"
-  icon_pack = "ai"
+  icon = "cubes"
+  icon_pack = "fas"
   name = "Intro to NanoEngineering"
   description = """2020 Fall"""  
 
