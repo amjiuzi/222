@@ -1,3 +1,7 @@
+I have more [^1] to say.
+
+[^1]: Footnote example.
+
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
