@@ -36,8 +36,7 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
    [[content.filter_button]]
     name = "Gene Engineering"
     tag = "Gene Engineering"
-    
-  """I am a graduate student at [UC San Deigo] (https://www.ucsd.edu)"""
+
 
 
 [design]
