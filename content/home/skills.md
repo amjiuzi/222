@@ -26,20 +26,10 @@ subtitle = ""
   description = """2020 Fall"""
   
   [[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
-  name = "Rubik's Cube"
-  description = """
-  
-  solved the 3x3 cube independently at 10 
-  
-  polyhedral cubes(10+ types) 
-  
-  irregular cubes(50+ types)
-  
-  own an cube exibition museumn
-  
-  """  
+  icon = "psyarxiv"
+  icon_pack = "ai"
+  name = "Intro to NanoEngineering"
+  description = """2020 Fall"""  
 
 [[feature]]
   icon = "galactic-senate"
