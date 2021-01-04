@@ -23,9 +23,8 @@ organizations:
 interests:
 - Drug delivery
 - BioPhotonics
-- Biomimic materials
+- Biomimetic materials
 - Multidrug resistance
-- Meta-analysis
 
 education:
   courses:
