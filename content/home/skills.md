@@ -26,30 +26,16 @@ subtitle = ""
   description = """2020 Fall"""
   
   [[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
+  icon = "psyarxiv"
+  icon_pack = "ai"
   name = "Intro to NanoEngineering"
   description = """2020 Fall"""  
 
 [[feature]]
-  icon = "galactic-senate"
-  icon_pack = "fab"
-  name = "Black Tech"
-  description = """
-  
-  AOPA senior aerial vehicle license
-  
-  AOPA junior Captain license
-  
-  AOPA intermediate drone programming engineer
-  
-  designed and programmed a drone at 8 
-  
-  professional aerial photographer & stunt competitor
-  
-
-  
-  """
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Nanomanufacturing"
+  description = """2020 Winter"""
   
    [[feature]]
   icon = "figshare"
