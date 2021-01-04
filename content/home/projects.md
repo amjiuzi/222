@@ -39,7 +39,7 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
     name = "Gene Engineering"
     tag = "Gene Engineering"
 
-
+-* How to [request a letter of recommendation](experience/).
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
