@@ -31,12 +31,12 @@ featured: true
 
 # links:
 #name: "Cite"
-#url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
-url_pdf: https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/btm2.10130
-url_code: 'https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130'
-url_dataset: 'https://aiche.onlinelibrary.wiley.com/journal/23806761'
-url_poster: 'https://aiche.onlinelibrary.wiley.com/cms/asset/16889a68-8fd7-434f-88ab-aab8bb9db190/btm210130-fig-0007-m.jpg'
-url_project: 'http://www.nsfc.gov.cn/english/site_1/index.html'
+#url: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
+url_pdf: https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1
+url_code: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
+url_dataset: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
+url_poster: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
+url_project: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
 url_slides: ''
 url_source: ''
 url_video: ''
