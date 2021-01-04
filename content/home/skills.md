@@ -38,8 +38,8 @@ subtitle = ""
   description = """2020 Winter"""
   
    [[feature]]
-  icon = "figshare"
-  icon_pack = "ai"
+  icon = "telescope"
+  icon_pack = "fas"
   name = "Nanoscale Characterization"
   description = "2020 Winter"
   
