@@ -82,3 +82,6 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  css_class = ""
 +++
 
+I have more [^1] to say.
+
+[^1]: Footnote example.
