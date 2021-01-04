@@ -30,7 +30,7 @@ summary: The therapeutic potential of long noncoding RNAs (lncRNAs) in acute mye
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 #name: "Cite"
