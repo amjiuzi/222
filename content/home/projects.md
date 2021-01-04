@@ -82,5 +82,4 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  # CSS class.
  css_class = ""
 +++
-filter_default = 10
 * How to [request a letter of recommendation](experience/).
