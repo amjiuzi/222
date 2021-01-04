@@ -44,7 +44,7 @@ subtitle = ""
   description = "2020 Winter"
   
   [[feature]]
-  icon = "hive"
+  icon = "joomla"
   icon_pack = "fas"
   name = "Nanosystem Integration"
   description = "2020 Winter" 
