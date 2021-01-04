@@ -50,7 +50,7 @@ social:
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/31249880/
-  - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/YiLi-2020
 - icon: arxiv
