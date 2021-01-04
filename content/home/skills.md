@@ -14,20 +14,10 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 [[feature]]
-  icon = "music"
-  icon_pack = "fas"
-  name = "Instrumental Music"
-  description = """
-  
-  piano(semi-professional); 
-  
-  violin,clarinet(senior);
-  
-  cello(intermediate)
-  
-  guitar, Ukulele and Irish whistle（primary） 
-  
-  """
+  icon = "react"
+  icon_pack = "fab"
+  name = "Intermolecular/Surface Forces"
+  description = """2020 Fall"""
   
 [[feature]]
   icon = "globe"
