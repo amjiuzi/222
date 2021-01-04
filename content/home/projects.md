@@ -73,6 +73,10 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
+
+I have more [^1] to say.
+
+[^1]: Footnote example.
   
 [advanced]
  # Custom CSS. 
@@ -82,6 +86,3 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  css_class = ""
 +++
 
-I have more [^1] to say.
-
-[^1]: Footnote example.
