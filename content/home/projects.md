@@ -1,6 +1,4 @@
-I have more [^1] to say.
 
-[^1]: Footnote example.
 
 +++
 # A Projects section created with the Portfolio widget.
