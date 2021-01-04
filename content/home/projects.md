@@ -73,6 +73,10 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
+  # links:
+#name: "Cite"
+#url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
   
 [advanced]
  # Custom CSS. 
@@ -82,7 +86,4 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  css_class = ""
 +++
 I am a graduate student at [UC San Deigo] (https://www.ucsd.edu)
-# links:
-#name: "Cite"
-#url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
+
