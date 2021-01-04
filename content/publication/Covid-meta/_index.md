@@ -1,14 +1,10 @@
 ---
 title: "Comparative efficacy and safety of current drugs against COVID-19: A systematic review and network meta-analysis"
 authors:
-- Yaqi Lyv
-- Qingqing Xiao
 - <u>**Yi Li**</u> 
-- Yubing Wu
 - Wei He*
-- Lifang Yin*
-date: "2019-05-15T00:00:00Z"
-doi: "10.1002/btm2.10130"
+date: "2020-11-16T00:00:00Z"
+doi: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
