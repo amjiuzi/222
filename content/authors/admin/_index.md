@@ -44,12 +44,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yil056@ucsd.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: skype
-  icon_pack: fab
-  link: mailto:yil056@ucsd.edu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-CN&user=vWavkyIAAAAJ
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/31249880/
+  - icon: github
+  icon_pack: fab
+  link: https://github.com/YiLi-2020
+- icon: arxiv
+  icon_pack: ai
+  link: https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
