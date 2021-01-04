@@ -81,4 +81,4 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  # CSS class.
  css_class = ""
 +++
-"""Flip is the first Filipino-American professor of particle physics. He runs a Physical Science book club ("Phy-Sci") at his local independent book store. He enjoys swimming, basketball, and speculative fiction"""
+I am a graduate student at [UC San Deigo] (https://www.ucsd.edu)
