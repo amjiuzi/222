@@ -26,13 +26,13 @@ subtitle = ""
   description = """2020 Fall"""
   
   [[feature]]
-  icon = "scirate"
-  icon_pack = "ai"
+  icon = "cubes"
+  icon_pack = "fas"
   name = "Intro to NanoEngineering"
   description = """2020 Fall"""  
 
 [[feature]]
-  icon = "cubes"
+  icon = "fill-drip"
   icon_pack = "fas"
   name = "Nanomanufacturing"
   description = """2020 Winter"""
@@ -46,14 +46,8 @@ subtitle = ""
   [[feature]]
   icon = "dryad"
   icon_pack = "ai"
-  name = "Herbal Medecine"
-  description = """
-  
-  identifying & processing traditional herbs
-  
-  being familiar with active ingredients and indications
-  
-  """ 
+  name = "Nanosystem Integration"
+  description = "2020 Winter" 
 
 
 +++
