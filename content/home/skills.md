@@ -38,7 +38,7 @@ subtitle = ""
   description = """2020 Winter"""
   
    [[feature]]
-  icon = "telescope"
+  icon = "microscope"
   icon_pack = "fas"
   name = "Nanoscale Characterization"
   description = "2020 Winter"
