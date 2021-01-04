@@ -1,5 +1,5 @@
 ---
-title: "Design drug-mediated delivery of miRNA"
+title: "Design"
 authors:
 - China Pharmaceutical University
 - Oct.2017-Apr.2018
