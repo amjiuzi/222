@@ -49,9 +49,4 @@ subtitle = ""
   name = "Nanosystem Integration"
   description = "2020 Winter" 
 
-cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
-  icon_pack: fas
-  icon: download
 +++
