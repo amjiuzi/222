@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
-Foci:
+interests:
 - Drug delivery
 - BioPhotonics
 - Biomimetic materials
