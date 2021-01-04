@@ -44,8 +44,8 @@ subtitle = ""
   description = "2020 Winter"
   
   [[feature]]
-  icon = "schlix"
-  icon_pack = "fas"
+  icon = "hive"
+  icon_pack = "far"
   name = "Nanosystem Integration"
   description = "2020 Winter" 
 
