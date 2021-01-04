@@ -44,8 +44,8 @@ subtitle = ""
   description = "2020 Winter"
   
   [[feature]]
-  icon = "hive"
-  icon_pack = "far"
+  icon = "codepen"
+  icon_pack = "fab"
   name = "Nanosystem Integration"
   description = "2020 Winter" 
 
