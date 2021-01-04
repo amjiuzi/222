@@ -1,5 +1,5 @@
 ---
-title: "Design"
+title: "See Professional Affiliations & Workgroups."
 authors:
 - China Pharmaceutical University
 - Oct.2017-Apr.2018
