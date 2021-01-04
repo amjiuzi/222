@@ -20,24 +20,10 @@ subtitle = ""
   description = """2020 Fall"""
   
 [[feature]]
-  icon = "globe"
-  icon_pack = "fas"
-  name = "Language"
-  description = """
-  
-  Chinese(native)
-  
-  English(Eur C1) 
-  
-  German(TestDaF 12, M)
-  
-  French(TEF 679, M)
-  
-  Italian(opera, SN) 
-  
-  Japanese(N1)
-  
-  """
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Advanced BioPhotonics"
+  description = """2020 Fall"""
   
   [[feature]]
   icon = "cubes"
