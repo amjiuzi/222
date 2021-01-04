@@ -26,7 +26,7 @@ subtitle = ""
   description = """2020 Fall"""
   
   [[feature]]
-  icon = "psyarxiv"
+  icon = "scirate"
   icon_pack = "ai"
   name = "Intro to NanoEngineering"
   description = """2020 Fall"""  
@@ -40,8 +40,8 @@ subtitle = ""
    [[feature]]
   icon = "figshare"
   icon_pack = "ai"
-  name = "Memory"
-  description = "capable of remembering 5000 decimals of PI"
+  name = "Nanoscale Characterization"
+  description = "2020 Winter"
   
   [[feature]]
   icon = "dryad"
