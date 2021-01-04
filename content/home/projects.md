@@ -84,6 +84,4 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  css_class = ""
 +++
 
-<br />
-
 * How to [request a letter of recommendation](./recs/).
