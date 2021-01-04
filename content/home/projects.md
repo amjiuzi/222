@@ -72,6 +72,8 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+  I am a graduate student at [UC San Deigo] (https://www.ucsd.edu)
+  
 [advanced]
  # Custom CSS. 
  css_style = ""
