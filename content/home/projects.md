@@ -81,5 +81,4 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  # CSS class.
  css_class = ""
 +++
-I am a graduate student at [UC San Deigo] ()
 
