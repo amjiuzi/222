@@ -1,5 +1,5 @@
 ---
-title: "“Locked” cancer cells are more sensitive to chemotherapy"
+title: "Comparative efficacy and safety of current drugs against COVID-19: A systematic review and network meta-analysis"
 authors:
 - Yaqi Lyv
 - Qingqing Xiao
